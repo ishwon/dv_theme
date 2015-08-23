@@ -42,12 +42,11 @@
 <body class="{{body_class}}">
 
     <header id="site-head">
-        <h1 class="blog-title"><a href="{{@blog.url}}">{{@blog.title}}</a></h1>
-        <h1 class="blog-subtitle">{{@blog.description}}</h1>
+        <h2 class="blog-title">// {{@blog.title}}</h2>
+        <h3 class="blog-subtitle">{{@blog.description}}</h3>
     </header>
 
-    {{!navigation}}
-
+    {{navigation}}
     {{{body}}}
 
     <footer class="site-footer">
