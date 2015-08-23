@@ -1,5 +1,5 @@
-# Steam
-Steam is a minimal and responsive theme for [Ghost](http://ghost.org/), largely based on [Vapor](https://github.com/sethlilly/Vapor) by Seth Lilly.
+# defaultvalues.io
+Defaultvalues.io is a minimal and responsive theme for [Ghost](http://ghost.org/), largely based on [Vapor](https://github.com/sethlilly/Vapor) by Seth Lilly.
 
 It features a clean and essential style with single column layout, beautiful typography, two colors, customizable partials and some nice javascript enhancements.
 
